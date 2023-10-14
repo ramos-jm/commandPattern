@@ -29,8 +29,8 @@ public class Thermostat implements Device{
 
     @Override
     public void SelectedPlaylist() {
-        System.out.println("Playing Selected Playlist");
-        System.out.println("Now Playing: ➗(Deluxe) by Ed Sheeran");
+        System.out.println("Playing Selected Playlist:\n");
+        System.out.println("🎧Now Playing🎧: ➗(Deluxe) by Ed Sheeran");
         System.out.println("Que:");
         System.out.println("- Photograph by Ed Sheeran");
         System.out.println("- Perfect by Ed Sheeran");

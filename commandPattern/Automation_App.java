@@ -61,6 +61,7 @@ public class Automation_App {
             System.out.print("Enter Selected Command: ");
             int cm = command.nextInt();
             System.out.println();
+            System.out.println("Activating command using Device:("+ device+")");
             Device light = new Lights();
             Device musicPlayer = new MusicPlayer();
             Device Thermostat = new Thermostat();

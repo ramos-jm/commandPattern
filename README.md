@@ -1,5 +1,5 @@
-##Problem
-#Smart Home Automation
+## Problem
+<b>Smart Home Automation</b>
 
 Imagine you're building a smart home automation system where various devices (lights, thermostat, music player, etc.) can be controlled remotely using a central hub or app. Each device has different functionalities, but you want to create a unified and flexible control mechanism.
 
@@ -11,5 +11,5 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
-##Class Diagram
+## Class Diagram
 ![commandPattern](https://github.com/ramos-jm/commandPattern/assets/127398189/f096173e-517b-47ac-8dd5-e4d0dbdb649e)

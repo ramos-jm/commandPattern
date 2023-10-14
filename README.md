@@ -12,4 +12,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 ## Class Diagram
-![commandPattern](https://github.com/ramos-jm/commandPattern/assets/127398189/f096173e-517b-47ac-8dd5-e4d0dbdb649e)
+![command_pattern](https://github.com/ramos-jm/commandPattern/assets/127398189/56aa14ec-025a-4569-938b-52afbbbcf881)

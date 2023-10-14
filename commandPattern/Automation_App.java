@@ -3,8 +3,6 @@ package commandPattern;
 import java.util.Scanner;
 
 public class Automation_App {
-    public Automation_App() {
-    }
 
     public static void main(String[] args) {
         Scanner device = new Scanner(System.in);
